@@ -1,0 +1,3 @@
+".\Objects\LEDProgram.obj" 
+TO ".\Objects\LED" 
+PRINT(".\Listings\LED.m51") CODE( 0X0000-0X0FFF )
